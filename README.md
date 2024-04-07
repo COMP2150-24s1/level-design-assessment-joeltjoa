@@ -7,21 +7,28 @@
 
 ### 1.1. Discovery
 The element of discovery is essential in my level design as each section builds on the skills that were found in the last to create flow. As the player learns the core mechanics, the level is designed to at the same time test the boundaries of these same mechanics. For example at the start of section 3 the player has to make a long jump over some spikes that are 4 squares high. This immediately teaches the player two things; that the maximum jump height is 5 squares and that the platform is too far away to reach without the use of other skills. This forces the player to start experimenting and eventually discover that the staff attack comes with a dash of movement that they can use to gain more movement while in the air which is hinted at through the staff pickup at the start of the section. This is good design practice as it gives the player a sense of autonomy and rewards them for discovering a solution.
-(DocImages/v1.png)
+
+![image 1](DocImages/v1.png)
 
 ### 1.2. Drama
 The intensity curve of the entire level sees a gradual incline to start as the mechanics are introduced then an increasingly sharp upwards curve in the following sections with a release of tension at each checkpoint and at the end of each section. The first design choice that facilitates a modulating intensity was to place checkpoints after the most intense encounters of each section to give the player a sense of reward for completing the challenge and allow them to not repeat the section of the level they just overcame. The density of enemies and obstacles in an encounter is the primary indicator of the intensity as it can evoke an emotional adrenaline response and creates memorable moments of tension. One example of this is in section 2 in which the encounter includes a spitter, destructible walls, spikes, acid and moving platforms which all happen simultaneously to add to the intensity. The tension from this section is built from both challenge and also its length between checkpoints that increases the risk of having to repeat more of the section the further they progress, which is then relieved once they reach a checkpoint.
 
+![image 2](DocImages/v2.png)
+
 ### 1.3. Challenge
 The main challenges in my level are physical that involve the player’s reaction speed, jump height and movement precision, and combos. I have controlled the difficulty curve of the level through building upon the skills and combos learnt in the previous section so that the player is familiar but challenged with the new encounters to keep interest and flow. Balancing is done through the use of health pickups and checkpoints as agents of intensity relief, and all of the encounters were playtested by myself to be sure they were possible with an optimal amount of challenge. One example of this can be seen in the third section of the game. At the start of the encounter the player must wait for the moving platform obstacle to move away, jump over some spikes then dash using the staff weapon to make enough distance to land on the first platform, avoid the spitter’s spit, crouch under the platform as it moves over them, then repeat the process to reach the end of the encounter. This creates a physical challenge for the player to time each action perfectly to achieve success and create flow as a result.
 
-### 1.4. Exploration
-My game facilitates a sense of autonomy by having the start and end point of the level originate in the same room with passthrough platforms which creates a centric layout that each section branches from. This means that the player quickly learns that without all three keys, the door will not open and they cannot complete the level and encourages them to start exploring in a direction that they choose to try and find them. A memorable space that I created is located at the end of the first section where there is a crossroads with one path blocked by a box and a small 2x2 pit of acid. This layout forces the player to move upwards where they can see another pushable box that would be able to fill the acid pit that they can only move away from the pit from this side of the box. This encourages the player to continue upward towards the obstacles of which they can then see a second key. Alternatively, if the player decides to wander past the second key to the edge of the platform, they will be able to see the final key which then in turn encourages them to find a path to the next section.
+![image 3](DocImages/v3.png)
 
+### 1.4. Exploration
+My game facilitates a sense of autonomy by having the start and end point of the level originate in the same room with passthrough platforms which creates a centric layout that each section branches from. This means that the player quickly learns that without all three keys, the door will not open and they cannot complete the level and encourages them to start exploring in a direction that they choose to try and find them. 
+![image 4](DocImages/v4.png)
+A memorable space that I created is located at the end of the first section where there is a crossroads with one path blocked by a box and a small 2x2 pit of acid. This layout forces the player to move upwards where they can see another pushable box that would be able to fill the acid pit that they can only move away from the pit from this side of the box. This encourages the player to continue upward towards the obstacles of which they can then see a second key. Alternatively, if the player decides to wander past the second key to the edge of the platform, they will be able to see the final key which then in turn encourages them to find a path to the next section.
+![image 5](DocImages/v5.png)
 
 ## 2. Core Gameplay 
 
-IMAGE
+![image 6](DocImages/v6.png)
 ### 2.1. Passthrough Platform
 I chose to introduce the passthrough platform as the first mechanic because of its simplicity and its necessity to the centrality of the level.
 
@@ -37,8 +44,7 @@ The Chomper was added as an enemy using context clues from the previously introd
 ### 2.5. Health Pickup 
 The Health Pickup was added after the first couple of obstacles as a moment of relief for the player and to also teach the player that the health losses are not permanent.
 
-
-IMAGE
+![image 7](DocImages/v7.png)
 ### 2.6. Acid
 In this next encounter the acid was introduced as a step up in intensity from the spikes as they force the player to die and respawn and are also more efficient in creating negative space than the spikes.
 
@@ -48,7 +54,7 @@ Now that the player has gotten the basics of the movement mechanics, the moving 
 ### 2.8. Checkpoints
 The first checkpoint was chosen to be added at this point to give a sense of relief as the player has made a decent amount of progress across the first section. The checkpoint was added over acid to let the player discover the mechanic of changing their spawn point assuming the player falls into the acid.
 
-IMAGE
+![image 8](DocImages/v8.png)
 ### 2.9. Weapon Pickup (Staff)
 I chose to introduce the staff here so that the player learns about both the abilities of the staff and the limitations of the previously attained gun not being able to shoot through or destroy the destructible wall. 
 
@@ -58,7 +64,7 @@ The destructible wall was introduced at this stage to provide a small increase i
 ### 2.11. Spitters
 I chose to introduce the spitter here because it is protected behind the wall and is able to teach the player about its spitting mechanic.
 
-IMAGE
+![image 9](DocImages/v9.png)
 ### 2.12. Pushable Box
 Towards the end of the section I chose to introduce the pushable box as a simple mechanic that adds to the player’s autonomy and exploration.
 
@@ -67,30 +73,34 @@ As the final new mechanic of the introductory section, the key being placed at t
 
 
 ## 3. Spatiotemporal Design
- 
+
 ### 3.1. Molecule Diagram
-
+![image 1](DocImages/moleculemap.jpg)
 ### 3.2. Level Map – Section 1
-
+![image 10](DocImages/v10.png)
 ### 3.3.	Level Map – Section 2
-
+![image 11](DocImages/v11.png)
 ### 3.4.	Level Map – Section 3
+![image 12](DocImages/v12.png)
 
-## 4. Iterative Design (~400 words)
+## 4. Iterative Design
 Iterative design was integral to the improvement of my level design as I did not start the process with a pre-planned spatial map of the level, therefore I had to use iterative design with trial and error to create the final product. The first image shows the level as it started out with the room with a door and three keys. As my level continues to evolve I decided to keep the first room while removing the keys and adding a passthrough floor to keep this room as a central place to the level and continue extending underneath the room.
 
-
+![image 13](DocImages/v13.png)
+![image 14](DocImages/v14.png)
 
 After designing the first iteration of section one I decided to extend the platform underneath the tower encounter to emphasise the introduction of the staff weapon’s mechanics and balance the challenge from the moving platforms by moving the spitter’s range away from the player as they are jumping from that encounter. Additionally I decided to use the pushable box as another optional prefab to create further potential for interconnectivity in the later sections.
 
-
+![image 15](DocImages/v15.png)
 
 As I playtested the first iteration of section 2, I noticed that the challenge faced in the overpass encounter was too great for the intended curve at that point so in its second iteration I extended the gaps between the walls and spikes to give the player more time to react and also provided them with 2 additional health pickups as some intensity relief.
 
-
-
+![image 16](DocImages/v16.png)
+![image 17](DocImages/v17.png)
 
 The third section went through many iterations as I tried to create an encounter that would act as the climax of the level from both a dramatic and challenge standpoint. This constant iterating came from my own discovery of the limits of the mechanics and how far I would be able to push the player in this encounter. Through this iterative design process I decided that the player would need many reliefs through checkpoints and health pickups, but challenged the player to complete 3 out of 4 levels of the section before they earned a checkpoint. Through my iterative design process I also developed a new way to utilise the moving platform as an obstacle rather than a tool for the player which added to the subversion and challenge of the encounter.
+
+![image 18](DocImages/v18.png)
 
 Although all parts of my level underwent the process of iterative design, I believe that section 2 would still benefit from further development under the same process as the lack of longevity of the encounter is a weak point.
 
