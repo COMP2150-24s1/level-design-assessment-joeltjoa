@@ -3,21 +3,11 @@
 ### Name: Joel Tjoa
 ### Student number: 47240563 
 
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
 ## 1. Player Experience 
 
 ### 1.1. Discovery
 The element of discovery is essential in my level design as each section builds on the skills that were found in the last to create flow. As the player learns the core mechanics, the level is designed to at the same time test the boundaries of these same mechanics. For example at the start of section 3 the player has to make a long jump over some spikes that are 4 squares high. This immediately teaches the player two things; that the maximum jump height is 5 squares and that the platform is too far away to reach without the use of other skills. This forces the player to start experimenting and eventually discover that the staff attack comes with a dash of movement that they can use to gain more movement while in the air which is hinted at through the staff pickup at the start of the section. This is good design practice as it gives the player a sense of autonomy and rewards them for discovering a solution.
-IMAGE
+(DocImages/v1.png)
 
 ### 1.2. Drama
 The intensity curve of the entire level sees a gradual incline to start as the mechanics are introduced then an increasingly sharp upwards curve in the following sections with a release of tension at each checkpoint and at the end of each section. The first design choice that facilitates a modulating intensity was to place checkpoints after the most intense encounters of each section to give the player a sense of reward for completing the challenge and allow them to not repeat the section of the level they just overcame. The density of enemies and obstacles in an encounter is the primary indicator of the intensity as it can evoke an emotional adrenaline response and creates memorable moments of tension. One example of this is in section 2 in which the encounter includes a spitter, destructible walls, spikes, acid and moving platforms which all happen simultaneously to add to the intensity. The tension from this section is built from both challenge and also its length between checkpoints that increases the risk of having to repeat more of the section the further they progress, which is then relieved once they reach a checkpoint.
